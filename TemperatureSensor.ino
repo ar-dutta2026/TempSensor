@@ -39,3 +39,7 @@ void loop()
   }
 }
 
+/* https://youtube.com/shorts/PP4d7iGK5cA?feature=share
+Check out my execution of the Temperature Sensor Project!
+*/
+
