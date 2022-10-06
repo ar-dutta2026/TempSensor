@@ -1,3 +1,8 @@
+/* 
+https://youtube.com/shorts/PP4d7iGK5cA?feature=share
+Check out my execution of the Temperature Sensor Project using the Arduino Platform!
+*/
+
 #include <LiquidCrystal_I2C.h>
 #include "DHT.h"
 #define DHTPIN 2
@@ -38,8 +43,4 @@ void loop()
     lcd.print("%");
   }
 }
-
-/* https://youtube.com/shorts/PP4d7iGK5cA?feature=share
-Check out my execution of the Temperature Sensor Project!
-*/
 
